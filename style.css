@@ -1,0 +1,28 @@
+body{
+    background-image: linear-gradient(lightblue,lightpink);
+    border:5px solid purple;
+    font-family: fantasy;
+    margin: 10px;
+}
+.heading{
+    width: 30%;
+    font-size: 22px;
+    letter-spacing: 2px;
+}
+#camera{
+    border: 2px black dotted;
+    width: 350px;
+    height: 300px;
+
+}
+button{
+    background-color: deeppink;
+    color: white;
+}
+h3{
+background-color: deeppink;
+color: white;
+}
+b{
+    font-size: 16px;
+}
